@@ -1,50 +1,108 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm a two-year Ph.D. student at PRMI Group, [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn) in China, supervised by Prof.[Xinwang Liu](https://xinwangliu.github.io/) and Prof. En Zhu. She received her bachelor degree at [Yunnan University](https://www.ynu.edu.cn/) in 2018 and master degree at NUDT in 2020.
+My current research interests include machine learning and data mining, especially in multi-view learning, deep clustering, contrastive learning and graph neural networks
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**[<font color="#FF0000">2023.11</font>]** Two papers have been accepted by **AAAI 2023**.\\
+**[<font color="#FF0000">2023.11</font>]** I am invited to server as a reviewer of IEEE TKDE.\\
+**[<font color="#FF0000">2023.10</font>]** I am invited to server as a PC of AAAI 2023.\\
+**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of IEEE TNNLS.\\
+**[<font color="#FF0000">2022.06</font>]** One paper has been accepted by **AAAI 2022**.\\
+**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of Neurocomputing.\\
+**[<font color="#FF0000">2021.10</font>]** One paper has been accepted by **IEEE Transactions on Image Processing**.\\
+**[<font color="#FF0000">2021.11</font>]** One paper has been accepted by **International Journal of Intelligent Systems**.\\
+**[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE Transactions on Multimedia**.\\
+**[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE Transactions on Knowledge and Data Engineering**.\\
+**[<font color="#FF0000">2020.10</font>]** One paper has been accepted by **Sensors**.\\
+**[<font color="#FF0000">2020.10</font>]** One paper has been accepted by **Journal of Frontiers of Computer Science and Technology**.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+
+
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Journals
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **<font color="#0000FF">[TKDE]</font>** **Zhang, Pei**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _Consensus One-step Multi-view Subspace Clustering_. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2020</font>. 
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9298842) [[code]](https://github.com/Jeaninezpp/COMVSC )
+- **<font color="#0000FF">[TIP]</font>** Wang Siwei, Liu Xinwang, Zhu Xinzhong, **Zhang Pei**, et al. _Fast parameter-free multi-view subspace clustering with consensus anchor guidance_. <font color="#2818200">IEEE Transactions on Image Processing 2021</font>.
+- Cheng Zhen, Wang Siwei, **Zhang Pei**, Wang Siqi, et al. _Improved autoencoder for unsupervised anomaly detection_. <font color="#2818200">International Journal of Intelligent Systems 2021</font>.
+- **<font color="#0000FF">[TMM]</font>** Sun Mengjing, Wang Siwei, **Zhang Pei**, Liu Xinwang, et al. _Projective Multiple Kernel Subspace Clustering._ <font color="#2818200">IEEE Transactions on Multimedia (TMM)</font>, 2021. 
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9447203) [[code]](https://github.com/MengjingSun/PMKSC-code)
+- **Zhang, Pei**, Siwei Wang, Jingtao Hu, Zhen Cheng, et al. _Adaptive Weighted Graph Fusion Incomplete Multi-View Subspace Clustering._ <font color="#2818200">Sensors 2020</font>. 
+[[paper]](https://www.mdpi.com/1424-8220/20/20/5755 ) [[Code]](https://github.com/Jeaninezpp/AWGF-code)
+<!-- - **Zhang, Pei**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _One-stage Partition-fusion Multi-view Subspace Clustering Algorithm._ <font color="#2818200">Journal of Frontiers of Computer Science and Technology 2020</font>. 
+[[paper]](http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2009070 ) -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Conferences:
+---
+- **<font color="#0000FF">[AAAI 23]</font>** **Zhang Pei**, Siwei Wang, Liang Li, Changwang Zhang, et al. _Let the data choose: Flexible and Diverse Anchor Graph Fusion for Scalable Multi-view Clustering_. <font color="#2818200">AAAI 2023</font>.
+- **<font color="#0000FF">[AAAI 23]</font>** Jingcan Duan, Siwei Wang, **Zhang Pei**, En Zhu, et al. _Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View_. <font color="#2818200">AAAI 2023</font>.
+- **<font color="#0000FF">[AAAI 22]</font>** Liu Suyuan, Wang Siwei, **Zhang Pei**, Liu Xinwang, et al. _Efficient one-pass multi-view subspace clustering with consensus anchors_. <font color="#2818200">AAAI 2022</font>.
+- **<font color="#0000FF">[ACM MM 21]</font>** Sun Mengjing, **Zhang Pei**, Wang Siwei, Zhou Sihang, et al. _Scalable multi-view subspace clustering with unified anchors_. <font color="#2818200">ACM Multimedia 2021</font>. (Co-first author)
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Service
+===
+- Reviewer of TKDE, TNNLS, Neurocomputing, etc.
+- Program Committee member of AAAI23.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Open Source
+===
+<!-- Pei Zhang -->
+[stars-img]: https://img.shields.io/github/stars/Jeaninezpp/Incomplete-multi-view-clustering?style=plastic
+[stars-url]: https://github.com/Jeaninezpp/Incomplete-multi-view-clustering/stargazers
+
+[fork-img]: https://img.shields.io/github/forks/Jeaninezpp/Incomplete-multi-view-clustering?style=plastic
+[fork-url]: https://github.com/Jeaninezpp/Incomplete-multi-view-clustering/network/members
+
+<!-- Siwei Wang -->
+[stars-img1]: https://img.shields.io/github/stars/wangsiwei2010/awesome-multi-view-clustering?style=plastic
+[stars-url1]: https://github.com/wangsiwei2010/awesome-multi-view-clustering/stargazers
+[fork-img1]: https://img.shields.io/github/forks/wangsiwei2010/awesome-multi-view-clustering??style=plastic
+[fork-url1]: https://github.com/wangsiwei2010/awesome-multi-view-clustering/network/members
+
+<!-- Yue Liu -->
+[stars-img2]: https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?style=plastic
+[stars-url2]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/stargazers
+[fork-img2]: https://img.shields.io/github/forks/yueliu1999/Awesome-Deep-Graph-Clustering?style=plastic
+[fork-url2]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/network/members
+
+- [Awesome Incomplete Multi-view Clustering](https://github.com/Jeaninezpp/Awesome-Incomplete-multi-view-clustering)
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+
+- [Awesome Multi-view Clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
+[![GitHub stars][stars-img1]][stars-url1]
+[![GitHub forks][fork-img1]][fork-url1]
+
+- [Awesome Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+[![GitHub stars][stars-img2]][stars-url2]
+[![GitHub forks][fork-img2]][fork-url2]
+
+
+Friendship Links
+===
+[Siwei Wang](https://wangsiwei2010.github.io/), 
+[Jiyuan Liu](https://liujiyuan13.github.io/), 
+[Wenxuan Tu](https://wxtu.github.io/), 
+[Weixuan Liang](https://wx-liang.github.io/), 
+[Xihong Yang](https://xihongyang1999.github.io/), 
+[Yue Liu](https://yueliu1999.github.io/), 
+[Jingcan Duan](https://felixdjc.github.io/)
