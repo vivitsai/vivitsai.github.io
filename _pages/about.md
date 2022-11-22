@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a two-year Ph.D. student at PRMI Group, [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn) in China, supervised by Prof.[Xinwang Liu](https://xinwangliu.github.io/) and Prof. En Zhu. She received her bachelor degree at [Yunnan University](https://www.ynu.edu.cn/) in 2018 and master degree at NUDT in 2020.
 My current research interests include machine learning and data mining, especially in multi-view learning, deep clustering, contrastive learning and graph neural networks.
-If you have any question, you can contact me by _zhangpei@nudt.edu.cn_.
+If you have any questions, you can contact me by _zhangpei@nudt.edu.cn_.
 
 
 
