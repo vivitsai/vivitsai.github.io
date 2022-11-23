@@ -38,7 +38,7 @@ Publications
 Journals
 ------
 - **<font color="#0000FF">[TKDE]</font>** **Pei Zhang**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _Consensus One-step Multi-view Subspace Clustering_. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2020</font>. 
-[[paper]](https://ieeexplore.ieee.org/abstract/document/9298842) [[code]](https://github.com/Jeaninezpp/COMVSC )
+[[paper]](../_data/paper/tkde2022.pdf) [[code]](https://github.com/Jeaninezpp/COMVSC )
 - **<font color="#0000FF">[TIP]</font>** Wang Siwei, Liu Xinwang, Zhu Xinzhong, **Pei Zhang**, et al. _Fast parameter-free multi-view subspace clustering with consensus anchor guidance_. <font color="#2818200">IEEE Transactions on Image Processing 2021</font>.
 - Cheng Zhen, Wang Siwei, **Pei Zhang**, Wang Siqi, et al. _Improved autoencoder for unsupervised anomaly detection_. <font color="#2818200">International Journal of Intelligent Systems 2021</font>.
 - **<font color="#0000FF">[TMM]</font>** Sun Mengjing, Wang Siwei, **Pei Zhang**, Liu Xinwang, et al. _Projective Multiple Kernel Subspace Clustering._ <font color="#2818200">IEEE Transactions on Multimedia (TMM)</font>, 2021. 
