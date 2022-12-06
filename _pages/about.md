@@ -15,12 +15,13 @@ If you have any questions, you can contact me by _zhangpei@nudt.edu.cn_.
 
 News
 ======
+**[<font color="#FF0000">2023.12</font>]** I am invited to server as a reviewer of **IEEE TIP**.\\
 **[<font color="#FF0000">2023.11</font>]** Two papers have been accepted by **AAAI 2023**.\\
-**[<font color="#FF0000">2023.11</font>]** I am invited to server as a reviewer of IEEE TKDE.\\
-**[<font color="#FF0000">2023.10</font>]** I am invited to server as a PC of AAAI 2023.\\
-**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of IEEE TNNLS.\\
+**[<font color="#FF0000">2023.11</font>]** I am invited to server as a reviewer of **IEEE TKDE**.\\
+**[<font color="#FF0000">2023.10</font>]** I am invited to server as a PC of **AAAI 2023**.\\
+**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of **IEEE TNNLS**.\\
 **[<font color="#FF0000">2022.06</font>]** One paper has been accepted by **AAAI 2022**.\\
-**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of Neurocomputing.\\
+**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of **Neurocomputing**.\\
 **[<font color="#FF0000">2021.10</font>]** One paper has been accepted by **IEEE Transactions on Image Processing**.\\
 **[<font color="#FF0000">2021.11</font>]** One paper has been accepted by **International Journal of Intelligent Systems**.\\
 **[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE Transactions on Multimedia**.\\
