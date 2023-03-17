@@ -15,11 +15,12 @@ If you have any questions, you can contact me by _zhangpei@nudt.edu.cn_.
 
 News
 ======
-**[<font color="#FF0000">2023.12</font>]** I am invited to server as a reviewer of **IEEE TIP**.\\
-**[<font color="#FF0000">2023.11</font>]** Two papers have been accepted by **AAAI 2023**.\\
-**[<font color="#FF0000">2023.11</font>]** I am invited to server as a reviewer of **IEEE TKDE**.\\
-**[<font color="#FF0000">2023.10</font>]** I am invited to server as a PC of **AAAI 2023**.\\
-**[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of **IEEE TNNLS**.\\
+**[<font color="#FF0000">2023.02</font>]** I am invited to server as a reviewer of **IEEE TCSVT**.\\
+**[<font color="#FF0000">2022.12</font>]** I am invited to server as a reviewer of **IEEE TIP**.\\
+**[<font color="#FF0000">2022.11</font>]** Two papers have been accepted by **AAAI 2023**.\\
+**[<font color="#FF0000">2022.11</font>]** I am invited to server as a reviewer of **IEEE TKDE**.\\
+**[<font color="#FF0000">2022.10</font>]** I am invited to server as a PC of **AAAI 2023**.\\
+**[<font color="#FF0000">2022.09</font>]** I am invited to server as a reviewer of **IEEE TNNLS**.\\
 **[<font color="#FF0000">2022.06</font>]** One paper has been accepted by **AAAI 2022**.\\
 **[<font color="#FF0000">2023.09</font>]** I am invited to server as a reviewer of **Neurocomputing**.\\
 **[<font color="#FF0000">2021.10</font>]** One paper has been accepted by **IEEE Transactions on Image Processing**.\\
@@ -38,7 +39,7 @@ Publications
 
 Journals
 ------
-- **<font color="#0000FF">[TKDE]</font>** **Pei Zhang**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _Consensus One-step Multi-view Subspace Clustering_. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2020</font>. 
+- **<font color="#0000FF">[TKDE]</font>** **Pei Zhang**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _Consensus One-step Multi-view Subspace Clustering_. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (TKDE) 20222/font>. 
 [[paper]](https://drive.google.com/file/d/1E4o7z21k6ms9BUJ9MYq-lkgbOG3hafLQ/view?usp=share_link) [[code]](https://github.com/Jeaninezpp/COMVSC )
 - **<font color="#0000FF">[TIP]</font>** Wang Siwei, Liu Xinwang, Zhu Xinzhong, **Pei Zhang**, et al. _Fast parameter-free multi-view subspace clustering with consensus anchor guidance_. <font color="#2818200">IEEE Transactions on Image Processing 2021</font>.
 - Cheng Zhen, Wang Siwei, **Pei Zhang**, Wang Siqi, et al. _Improved autoencoder for unsupervised anomaly detection_. <font color="#2818200">International Journal of Intelligent Systems 2021</font>.
