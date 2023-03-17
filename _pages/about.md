@@ -39,7 +39,7 @@ Publications
 
 Journals
 ------
-- **<font color="#0000FF">[TKDE]</font>** **Pei Zhang**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _Consensus One-step Multi-view Subspace Clustering_. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022/font>. 
+- **<font color="#0000FF">[TKDE]</font>** **Pei Zhang**, Xinwang Liu, Jian Xiong, Sihang Zhou, et al. _Consensus One-step Multi-view Subspace Clustering_. <font color="#2818200">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2022</font>. 
 [[paper]](https://drive.google.com/file/d/1E4o7z21k6ms9BUJ9MYq-lkgbOG3hafLQ/view?usp=sharing) [[code]](https://github.com/Jeaninezpp/COMVSC)
 - **<font color="#0000FF">[TIP]</font>** Wang Siwei, Liu Xinwang, Zhu Xinzhong, **Pei Zhang**, et al. _Fast parameter-free multi-view subspace clustering with consensus anchor guidance_. <font color="#2818200">IEEE Transactions on Image Processing 2021</font>.
 - Cheng Zhen, Wang Siwei, **Pei Zhang**, Wang Siqi, et al. _Improved autoencoder for unsupervised anomaly detection_. <font color="#2818200">International Journal of Intelligent Systems 2021</font>.
@@ -61,7 +61,7 @@ Conferences:
 
 Service
 ===
-- Reviewer of TKDE, TNNLS, Neurocomputing, etc.
+- Reviewer of TKDE, TNNLS, TIP, TCSVT, Neurocomputing, etc.
 - Program Committee member of AAAI23.
 
 
@@ -71,7 +71,6 @@ Open Source
 <!-- Pei Zhang -->
 [stars-img]: https://img.shields.io/github/stars/Jeaninezpp/Incomplete-multi-view-clustering?style=plastic
 [stars-url]: https://github.com/Jeaninezpp/Incomplete-multi-view-clustering/stargazers
-
 [fork-img]: https://img.shields.io/github/forks/Jeaninezpp/Incomplete-multi-view-clustering?style=plastic
 [fork-url]: https://github.com/Jeaninezpp/Incomplete-multi-view-clustering/network/members
 
@@ -109,3 +108,4 @@ Friendship Links
 [Xihong Yang](https://xihongyang1999.github.io/), 
 [Yue Liu](https://yueliu1999.github.io/), 
 [Jingcan Duan](https://felixdjc.github.io/)
+[Liang Li](https://liliangnudt.github.io/)
