@@ -22,9 +22,9 @@ News
 **[<font color="#FF0000">2022.10</font>]** I am invited to server as a PC of **AAAI 2023**.\\
 **[<font color="#FF0000">2022.09</font>]** I am invited to server as a reviewer of **IEEE TNNLS**.\\
 **[<font color="#FF0000">2022.06</font>]** One paper has been accepted by **AAAI 2022**.\\
-**[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing**.\\
-**[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE Transactions on Geoscience and Remote Sensing**.\\
-**[<font color="#FF0000">2020.10</font>]** One paper has been accepted by **IEEE Transactions on Computational Social Systems**.\\
+**[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE TGRS**.\\
+**[<font color="#FF0000">2020.12</font>]** One paper has been accepted by **IEEE TGRS**.\\
+**[<font color="#FF0000">2020.10</font>]** One paper has been accepted by **IEEE TGRS**.\\
 
 
 
@@ -35,8 +35,8 @@ Publications
 
 Journals
 ------
-- **<font color="#0000FF">[TGRS]</font>** **W. Cai** et al., "A Novel Hyperspectral Image Classification Model Using Bole Convolution With Three-Direction Attention Mechanism: Small Sample and Unbalanced Learning," in <font color="#2818200">IEEE Transactions on Geoscience and Remote Sensing</font>, vol. 61, pp. 1-17, 2023, Art no. 5500917, doi: 10.1109/TGRS.2022.3201056_.
-[[paper]](https://drive.google.com/file/d/1E4o7z21k6ms9BUJ9MYq-lkgbOG3hafLQ/view?usp=sharing) [[code]](https://github.com/Jeaninezpp/COMVSC)
+- **<font color="#0000FF">[TGRS]</font>** **Cai, W.**, Ning, X., Zhou, G., Bai, X., Jiang, Y., Li, W., & Qian, P. (2022). A novel hyperspectral image classification model using bole convolution with three-direction attention mechanism: small sample and unbalanced learning. <font color="#2818200">IEEE Transactions on Geoscience and Remote Sensing</font>, 61, 1-17. 
+[[paper]](https://ieeexplore.ieee.org/abstract/document/9875214/) [[code]](https://github.com/vivitsai/BTA-Net)
 - **<font color="#0000FF">[TIP]</font>** Wang Siwei, Liu Xinwang, Zhu Xinzhong, **Pei Zhang**, et al. _Fast parameter-free multi-view subspace clustering with consensus anchor guidance_. <font color="#2818200">IEEE Transactions on Image Processing 2021</font>.
 - Cheng Zhen, Wang Siwei, **Pei Zhang**, Wang Siqi, et al. _Improved autoencoder for unsupervised anomaly detection_. <font color="#2818200">International Journal of Intelligent Systems 2021</font>.
 - **<font color="#0000FF">[TMM]</font>** Sun Mengjing, Wang Siwei, **Pei Zhang**, Liu Xinwang, et al. _Projective Multiple Kernel Subspace Clustering._ <font color="#2818200">IEEE Transactions on Multimedia (TMM)</font>, 2021. 
