@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiwei Cai"
+title                    : "Weiwei Cai's Homepage"
 title_separator          : "-"
 name                     : &name "Weiwei Cai"
 description              : &description "personal description"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Weiwei Cai"
-  avatar           : "profile.png"
+  avatar           : "https://i1.rgstatic.net/ii/profile.image/11431281156287288-1683477874892_Q128/Weiwei-Cai-5.jpg"
   bio              : "vivitsai@ieee.org"
   location         : "Wuxi,China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=O3c6Cr0AAAAJ"
   email            : "vivitsai@ieee.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Weiwei-Cai-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
