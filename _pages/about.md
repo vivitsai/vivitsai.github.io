@@ -35,7 +35,7 @@ Publications
 
 Journals
 ------
-- **<font color="#0000FF">[TGRS]</font>** **Cai, W.**, Ning, X., Zhou, G., Bai, X., Jiang, Y., Li, W., & Qian, P. (2022). A novel hyperspectral image classification model using bole convolution with three-direction attention mechanism: small sample and unbalanced learning. <font color="#2818200">IEEE Transactions on Geoscience and Remote Sensing</font>, 61, 1-17. 
+- **<font color="#0000FF">[TGRS]</font>** **Cai, W.**, Ning, X., Zhou, G., Bai, X., Jiang, Y., Li, W., & Qian, P. (2022). A novel hyperspectral image classification model using bole convolution with three-direction attention mechanism: small sample and unbalanced learning. <font color="#2818200">**IEEE Transactions on Geoscience and Remote Sensing**</font>, 61, 1-17. 
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9875214/) [[code]](https://github.com/vivitsai/BTA-Net)
 - **<font color="#0000FF">[TIP]</font>** Wang Siwei, Liu Xinwang, Zhu Xinzhong, **Pei Zhang**, et al. _Fast parameter-free multi-view subspace clustering with consensus anchor guidance_. <font color="#2818200">IEEE Transactions on Image Processing 2021</font>.
 - Cheng Zhen, Wang Siwei, **Pei Zhang**, Wang Siqi, et al. _Improved autoencoder for unsupervised anomaly detection_. <font color="#2818200">International Journal of Intelligent Systems 2021</font>.
